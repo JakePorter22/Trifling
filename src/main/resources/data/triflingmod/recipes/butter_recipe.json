@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:milk_bucket"},
+    "$": {
+      "item": "minecraft:barrel"}
+  },
+  "pattern": [
+    "#$"
+  ],
+  "result": {
+    "count": 8,
+    "item": "triflingmod:butter"
+  }
+
+}
